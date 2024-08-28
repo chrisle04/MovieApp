@@ -1,4 +1,4 @@
-# MovieApp - First Github Project
+# MovieApp - Github Test Project
 
 
 
